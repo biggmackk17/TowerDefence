@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec9cc6fece40abd48932ef9e86a91145, type: 3}
+  m_Name: Wave 3
+  m_EditorClassIdentifier: 
+  WaveNum: 3
+  Name: Lets Mix It Up
+  Enemies:
+  - {fileID: 1662030699176111312, guid: 55756f980c5171947ba44ecd21edbdcf, type: 3}
+  - {fileID: 6918101772991184227, guid: 44f64ca3652fa99459f82bedc71722ca, type: 3}
+  - {fileID: 1662030699176111312, guid: 55756f980c5171947ba44ecd21edbdcf, type: 3}
+  - {fileID: 6918101772991184227, guid: 44f64ca3652fa99459f82bedc71722ca, type: 3}
+  Delay: 2
